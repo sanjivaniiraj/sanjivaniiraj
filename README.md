@@ -1,5 +1,5 @@
 # 💫 About Me:
- 🔭 Currently working on: Strengthening Data Structures & Algorithms using Java  <br>- 🚀 Solving problems daily on LeetCode and pushing solutions on GitHub  <br>- ☁️ Pursuing: Google Cloud Generative AI (APAC) Certification *(ongoing)*  <br>- 🤝 Looking to collaborate on: Open-source and beginner-friendly projects  <br>- ❓ Seeking help with: Advanced DSA & System Design  <br>- 🌱 Learning: Java, DSA, SQL, Git/GitHub, Web Development basics  <br>- 💬 Ask me about: Java, GitHub workflow, beginner coding roadmap  <br>- ⚡ Fun fact: I focus on consistency and track my coding daily 📈  <br>
+🔭 Currently working on: Strengthening Data Structures & Algorithms using Java  <br> 🚀 Solving problems daily on LeetCode and pushing solutions on GitHub  <br> ☁️ Pursuing: Google Cloud Generative AI (APAC) Certification *(ongoing)*  <br> 🤝 Looking to collaborate on: Open-source and beginner-friendly projects  <br> ❓ Seeking help with: Advanced DSA & System Design  <br> 🌱 Learning: Java, DSA, SQL, Git/GitHub, Web Development basics  <br> 💬 Ask me about: Java, GitHub workflow, beginner coding roadmap  <br> ⚡ Fun fact: I focus on consistency and track my coding daily 📈  <br>
 
 
 ## 🌐 Socials:
